@@ -1,0 +1,22 @@
+20
+a Robert 165 50
+a Cole 188 90
+a Savannah 160 46
+a Sophie 150 42
+e David
+a David 165 70
+f Cole
+a Ayden 155 45
+a Ayden 165 48
+f Alaina
+e Savannah
+a Dylan 188 75
+a Hudson 188 100
+a Grace 170 55
+a Fiona 170 53
+a Norah 160 53
+a George 170 60
+a Lucas 188 75
+a Mia 144 39
+a Wesley 200 100
+
